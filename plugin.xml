@@ -16,7 +16,7 @@
       <perspective
             name="RCP Perspective"
             class="first.rcp.application.Perspective"
-            id="first.rcp.application.perspective">
+            id="first.rcp.application.Perspective">
       </perspective>
    </extension>
    <extension
